@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="DELETE">
+        <active>true</active>
+        <base_uri>/api/x_58872_needit/demo_service</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>Demo Service</name>
+        <namespace>x_58872_needit</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>demo_service</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 18:30:20</sys_created_on>
+        <sys_id>9595f1422f6031103a4b18acf699b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Service</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_definition_9595f1422f6031103a4b18acf699b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 18:30:20</sys_updated_on>
+    </sys_ws_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2472d56fdb547b00f492c5970596199a</instance_id>
+        <instance_name>dev77126</instance_name>
+        <name>sys_ws_definition_9595f1422f6031103a4b18acf699b62f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_58872_needit/demo_service</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Demo Service</name><namespace>x_58872_needit</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>demo_service</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 18:30:20</sys_created_on><sys_id>9595f1422f6031103a4b18acf699b62f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Service</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_definition_9595f1422f6031103a4b18acf699b62f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 18:30:20</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+        <payload_hash>59750116</payload_hash>
+        <record_name>Demo Service</record_name>
+        <reverted_from/>
+        <source>7334b1ce2f2031103a4b18acf699b6af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 18:30:21</sys_created_on>
+        <sys_id>2dc5b5022f6031103a4b18acf699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189e0b6c2540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 18:30:21</sys_updated_on>
+        <type>Scripted REST API</type>
+        <update_guid>61c5b502ef6031107a666e72d2a18af6</update_guid>
+        <update_guid_history>61c5b502ef6031107a666e72d2a18af6:59750116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 18:36:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_definition">sys_ws_definition</sys_db_object>
+        <sys_id>0eb6e2e674d24ca7825e6ebd63ec57e9</sys_id>
+        <sys_metadata>9595f1422f6031103a4b18acf699b62f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Service</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_definition_9595f1422f6031103a4b18acf699b62f</sys_update_name>
+        <sys_update_version display_value="sys_ws_definition_9595f1422f6031103a4b18acf699b62f">2dc5b5022f6031103a4b18acf699b6f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 18:36:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
